@@ -1,162 +1,162 @@
 city,price
-New York,200
-Los Angeles,150
-Chicago,120
-Houston,220
-San Francisco,300
-Miami,180
-Atlanta,150
-Boston,250
-Dallas,190
-Philadelphia,170
-Seattle,230
-Phoenix,200
-Denver,180
-Las Vegas,270
-Orlando,220
-Minneapolis,200
-Portland,250
-San Diego,190
-Nashville,170
-Austin,240
-San Antonio,180
-Kansas City,200
-St. Louis,210
-Tampa,220
-Columbus,190
-Charlotte,180
-Indianapolis,200
-Raleigh,210
-Salt Lake City,220
-Oklahoma City,200
-Memphis,180
-Jacksonville,200
-Louisville,210
-Milwaukee,190
-Washington,250
-New Orleans,220
-Sacramento,200
-Baltimore,190
-San Jose,270
-Albuquerque,180
-Honolulu,300
-Cincinnati,190
-Richmond,180
-Salt Lake City,220
-Providence,210
-Rochester,190
-Pittsburgh,200
-Norfolk,180
-Hartford,220
-Buffalo,190
-Louisville,210
-Birmingham,180
-Grand Rapids,200
-Virginia Beach,190
-Omaha,220
-Albany,200
-Tucson,180
-El Paso,190
-Fresno,200
-Greensboro,210
-Anchorage,220
-Reno,190
-Springfield,180
-Bakersfield,200
-Augusta,210
-McAllen,180
-Lubbock,200
-Modesto,190
-Des Moines,220
-Spokane,200
-Montgomery,180
-Boise,190
-Wichita,210
-Mobile,180
-Huntsville,200
-Youngstown,210
-Jackson,180
-Chattanooga,200
-Harrisburg,190
-Shreveport,180
-Macon,220
-Reading,200
-Lancaster,190
-Kalamazoo,210
-Erie,180
-Fargo,200
-Billings,190
-Bismarck,210
-Great Falls,180
-Cheyenne,200
-Pueblo,190
-Grand Forks,220
-Casper,200
-Laramie,180
-Jackson Hole,220
-Columbia,200
-Greenville,190
-Charleston,210
-Myrtle Beach,180
-Savannah,200
-Augusta,220
-Athens,190
-Gainesville,210
-Daytona Beach,180
-Key West,200
-Fort Myers,220
-Naples,200
-Panama City,180
-Tallahassee,210
-Boca Raton,190
-Pensacola,200
-Destin,220
-St. Augustine,200
-Cape Coral,180
-Marco Island,210
-Islamorada,190
-Lake Tahoe,200
-Santa Fe,220
-Aspen,200
-Vail,180
-Telluride,210
-Durango,190
-Steamboat Springs,200
-Breckenridge,220
-Crested Butte,200
-Glenwood Springs,180
-Ouray,210
-Estes Park,190
-Pagosa Springs,200
-Buena Vista,220
-Salida,200
-Leadville,180
-Canon City,210
-Moab,190
-Park City,200
-St. George,220
-Logan,200
-Ketchum,180
-Sun Valley,190
-Coeur d'Alene,200
-Bozeman,220
-Missoula,200
-Whitefish,180
-Kalispell,210
-Helena,190
-Great Falls,200
-Big Sky,220
-Butte,200
-Billings,180
-Rapid City,210
-Sioux Falls,190
-Deadwood,200
-Pierre,220
-Aberdeen,200
-Brookings,180
-Watertown,210
-Mitchell,190
-Huron,200
-Spearfish,220
-Vermillion,200
-Yankton,180
+"New York",200
+"Los Angeles",150
+"Chicago",120
+"Houston",220
+"San Francisco",300
+"Miami",180
+"Atlanta",150
+"Boston",250
+"Dallas",190
+"Philadelphia",170
+"Seattle",230
+"Phoenix",200
+"Denver",180
+"Las Vegas",270
+"Orlando",220
+"Minneapolis",200
+"Portland",250
+"San Diego",190
+"Nashville",170
+"Austin",240
+"San Antonio",180
+"Kansas City",200
+"St. Louis",210
+"Tampa",220
+"Columbus",190
+"Charlotte",180
+"Indianapolis",200
+"Raleigh",210
+"Salt Lake City",220
+"Oklahoma City",200
+"Memphis",180
+"Jacksonville",200
+"Louisville",210
+"Milwaukee",190
+"Washington, DC",250
+"New Orleans",220
+"Sacramento",200
+"Baltimore",190
+"San Jose",270
+"Albuquerque",180
+"Honolulu",300
+"Cincinnati",190
+"Richmond",180
+"Salt Lake City",220
+"Providence",210
+"Rochester",190
+"Pittsburgh",200
+"Norfolk",180
+"Hartford",220
+"Buffalo",190
+"Louisville",210
+"Birmingham",180
+"Grand Rapids",200
+"Virginia Beach",190
+"Omaha",220
+"Albany",200
+"Tucson",180
+"El Paso",190
+"Fresno",200
+"Greensboro",210
+"Anchorage",220
+"Reno",190
+"Springfield",180
+"Bakersfield",200
+"Augusta",210
+"McAllen",180
+"Lubbock",200
+"Modesto",190
+"Des Moines",220
+"Spokane",200
+"Montgomery",180
+"Boise",190
+"Wichita",210
+"Mobile",180
+"Huntsville",200
+"Youngstown",210
+"Jackson",180
+"Chattanooga",200
+"Harrisburg",190
+"Shreveport",180
+"Macon",220
+"Reading",200
+"Lancaster",190
+"Kalamazoo",210
+"Erie",180
+"Fargo",200
+"Billings",190
+"Bismarck",210
+"Great Falls",180
+"Cheyenne",200
+"Pueblo",190
+"Grand Forks",220
+"Casper",200
+"Laramie",180
+"Jackson Hole",220
+"Columbia",200
+"Greenville",190
+"Charleston",210
+"Myrtle Beach",180
+"Savannah",200
+"Augusta",220
+"Athens",190
+"Gainesville",210
+"Daytona Beach",180
+"Key West",200
+"Fort Myers",220
+"Naples",200
+"Panama City",180
+"Tallahassee",210
+"Boca Raton",190
+"Pensacola",200
+"Destin",220
+"St. Augustine",200
+"Cape Coral",180
+"Marco Island",210
+"Islamorada",190
+"Lake Tahoe",200
+"Santa Fe",220
+"Aspen",200
+"Vail",180
+"Telluride",210
+"Durango",190
+"Steamboat Springs",200
+"Breckenridge",220
+"Crested Butte",200
+"Glenwood Springs",180
+"Ouray",210
+"Estes Park",190
+"Pagosa Springs",200
+"Buena Vista",220
+"Salida",200
+"Leadville",180
+"Canon City",210
+"Moab",190
+"Park City",200
+"St. George",220
+"Logan",200
+"Ketchum",180
+"Sun Valley",190
+"Coeur d'Alene",200
+"Bozeman",220
+"Missoula",200
+"Whitefish",180
+"Kalispell",210
+"Helena",190
+"Great Falls",200
+"Big Sky",220
+"Butte",200
+"Billings",180
+"Rapid City",210
+"Sioux Falls",190
+"Deadwood",200
+"Pierre",220
+"Aberdeen",200
+"Brookings",180
+"Watertown",210
+"Mitchell",190
+"Huron",200
+"Spearfish",220
+"Vermillion",200
+"Yankton",180
