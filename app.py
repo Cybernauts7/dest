@@ -1,4 +1,5 @@
 from flask import Flask, jsonify, request
+from flask_cors import CORS
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
@@ -6,6 +7,7 @@ from sklearn.neighbors import KNeighborsClassifier
 
 # Set up Flask application
 app = Flask(__name__)
+CORS(app)
 
 # Load the dataset
 data = pd.read_csv('https://raw.githubusercontent.com/sas-7/dest/main/destination.csv')
