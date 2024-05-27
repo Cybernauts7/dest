@@ -14,7 +14,7 @@ data = pd.read_csv('https://raw.githubusercontent.com/sas-7/dest/main/destinatio
 X = data[['historical & heritage', 'city', 'pilgrimage', 'hill station', 'beach', 
           'lake & backwater', 'adventure / trekking', 'wildlife', 'waterfall', 
           'nature & scenic', 'price']]
-y = data[['Old_age']]  # Target variable
+y = data[['city']]  # Target variable
 
 # Split the data into training and testing sets (80% training, 20% testing)
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
@@ -31,7 +31,7 @@ knn.fit(X_train_scaled, y_train.values.ravel())
 # Define function to recommend tourist destinations based on destination type
 def recommend_destinations(destination_type):
     # Filter destinations matching the destination type
-    filtered_destinations = data[data[destination_type] == 1].head(5)['City']
+    filtered_destinations = data[data[destination_type] == 1].head(4)['City']
     if not filtered_destinations.empty:
         return filtered_destinations.tolist()
     else:
