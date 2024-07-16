@@ -12,7 +12,7 @@ CORS(app)
 # Load the dataset
 data = pd.read_csv('https://raw.githubusercontent.com/sas-7/dest/main/destination.csv')
 
-# Extract relevant features and target variable
+
 X = data[['historical & heritage', 'city', 'pilgrimage', 'hill station', 'beach', 
           'lake & backwater', 'adventure / trekking', 'wildlife', 'waterfall', 
           'nature & scenic', 'price']]
